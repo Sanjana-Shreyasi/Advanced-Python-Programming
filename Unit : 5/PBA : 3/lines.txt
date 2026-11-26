@@ -1,0 +1,4 @@
+Python is easy.
+File handling is an important topic.
+Regex is useful.
+Python supports automation.
